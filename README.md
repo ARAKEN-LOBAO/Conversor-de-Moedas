@@ -2,16 +2,15 @@
 
 Este é um projeto de um conversor de moedas simples, permitir aos usuários converter valores entre diferentes moedas com base em taxas de câmbio atualizadas.
 
-## ✨ Funcionalidades
+✨ Funcionalidades
 
-* **Conversão de Moedas:** Converta valores de uma moeda para outra.
-* **Moedas Suportadas:** (Liste algumas moedas suportadas ou diga "suporte a uma ampla gama de moedas internacionais").
-* **Atualização de Taxas:** (Mencione como as taxas de câmbio são obtidas/atualizadas, por exemplo: "taxas de câmbio atualizadas via API externa X" ou "taxas de câmbio fixas").
-* **Interface Amigável:** (Descreva a interface, se for um GUI, CLI, etc.).
+* Conversão de Moedas: Converta valores de uma moeda para outra.
+* Moedas Suportadas: suporte a uma ampla gama de moedas internacionais.
+* Atualização de Taxas: taxas de câmbio fixas.
 
-## 🚀 Tecnologias Utilizadas
+🚀 Tecnologias Utilizadas
 
-* **Linguagem de Programação:** ( Java)
+* Linguagem de Programação:** ( Java)
 
 
 ## ⚙️ Como Usar
