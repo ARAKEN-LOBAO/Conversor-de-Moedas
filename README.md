@@ -1,6 +1,6 @@
 # 💲 Conversor de Moedas
 
-Este é um projeto de um conversor de moedas simples, desenvolvido para... (descreva brevemente o propósito do seu conversor, por exemplo: "permitir aos usuários converter valores entre diferentes moedas com base em taxas de câmbio atualizadas").
+Este é um projeto de um conversor de moedas simples, permitir aos usuários converter valores entre diferentes moedas com base em taxas de câmbio atualizadas.
 
 ## ✨ Funcionalidades
 
